@@ -1,0 +1,110 @@
+#divMap1
+
+{
+
+border:1px solid #dddddd;
+
+width:1000px;
+
+height:600px;
+
+background:url(更新图表/湿地1.jpg);
+
+background-size:100% 100%;
+position:center;
+float: center;
+}
+
+/* 图片导航控制div */
+
+#divNavgate1
+
+{
+
+border:0px solid rgb(15, 110, 64);
+
+width:40px;
+
+height:20px;
+
+position:center;
+
+left:210px;
+
+top:337px;
+
+color:white;
+
+text-align:center;
+
+font-weight:bold;
+
+
+
+}
+
+/* 图片1导航控制div */
+
+#divMap11
+
+{
+
+border:1px solid rgb(15, 110, 64);
+
+width:30px;
+
+height:20px;
+
+color:gray;
+
+float:center;
+
+text-align:center;
+
+font-weight:bold;
+
+}
+
+/* 图片2导航控制div */
+
+#divMap12
+
+{
+
+border:1px solid rgb(15, 110, 64);
+
+width:30px;
+
+height:20px;
+
+color:gray;
+
+float:center;
+
+text-align:center;
+
+font-weight:bold;
+
+}
+
+/* 图片3导航控制div */
+
+#divMap13
+
+{
+
+border:1px solid rgb(15, 110, 64);
+
+width:30px;
+
+height:20px;
+
+float:center;
+
+color:gray;
+
+text-align:center;
+
+font-weight:bold;
+
+}

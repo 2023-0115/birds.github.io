@@ -1,0 +1,12 @@
+
+  
+  ul {
+    padding: 20px;
+  }
+  
+  ul li {
+    color: darkblue;
+    margin: 5px;
+    text-align: center;
+    text-size-adjust:inherit;
+}
