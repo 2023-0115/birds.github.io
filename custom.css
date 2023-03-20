@@ -1,0 +1,16 @@
+/* your styles go here */
+.post strong{
+    color: #0d95e8;
+    font-size:3rem;
+}
+.post .post-thumbnail{
+    position:relative;
+    width: 100%;
+    overflow:hidden;
+}
+.post .post-thumbnail img {
+    width: 100%;
+height: 300px;
+object-fit:cover;
+margin-bottom: 10px;
+}
